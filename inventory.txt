@@ -1,0 +1,51 @@
+[ODP]
+Introduction to DevOps principles
+Understanding CI/CD pipelines
+Version control with Git basics
+Branching strategies (Git Flow, trunk-based)
+Writing basic Dockerfiles
+Container lifecycle management
+Docker networking fundamentals
+Docker volumes and persistence
+Kubernetes architecture overview
+Kubernetes core objects (Pods, Services, Deployments)
+kubectl command usage basics
+Writing simple Kubernetes manifests
+Helm charts introduction
+Helm values and templating basics
+Infrastructure as Code concept (IaC)
+Intro to Terraform syntax and workflow
+Provisioning infrastructure with Terraform
+State management in Terraform
+Configuration management with Ansible basics
+Writing Ansible playbooks
+Ansible inventory and variables
+Linux fundamentals for DevOps
+Shell scripting basics (bash)
+Environment variables and configuration
+Networking basics (ports, DNS, HTTP)
+HTTP methods and status codes
+Reverse proxies (NGINX basics)
+Load balancing concepts
+Logging fundamentals (centralized logging)
+Monitoring basics (metrics vs logs)
+Intro to Prometheus and Grafana
+Alerting concepts in DevOps
+Secrets management basics
+CI/CD tools overview (Jenkins, GitHub Actions)
+Writing a simple CI pipeline
+Writing a simple CD pipeline
+Artifact repositories basics
+Container registries (Docker Hub, private registries)
+Authentication and authorization basics
+Role-Based Access Control (RBAC) in Kubernetes
+Cloud fundamentals (IaaS, PaaS, SaaS)
+Intro to cloud providers (AWS/GCP/Azure basics)
+High availability and scalability concepts
+Backup and disaster recovery basics
+Debugging containerized applications
+Troubleshooting Kubernetes workloads
+Performance optimization basics
+DevOps culture and collaboration
+Agile and Scrum basics for DevOps
+Documentation and knowledge sharing
