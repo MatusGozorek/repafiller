@@ -35,6 +35,15 @@ jobs:
       - name: Install dependencies
         run: poetry install
 
+      - name: Install dependencies
+        run: poetry install
+
+      - name: Install PyInstaller
+        run: poetry run pip install pyinstaller
+
+      - name: Build binary
+        run: poetry run pyinstaller --onefile src/repafiller/main.py --name repafiller
+
       - name: Build binary
         run: poetry run pyinstaller --onefile src/repafiller/main.py --name repafiller
 
